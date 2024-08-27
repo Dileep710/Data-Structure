@@ -10,7 +10,7 @@ Node* createNode(int data)
     newNode->data = data;
     newNode->left = NULL;
     newNode->right = NULL;
-    return newNode;
+    return newNode; 
 }
 Node* insertNode(Node* root, int data) 
 {
