@@ -30,3 +30,4 @@ int main()
     printf("Right child data: %d\n", root->right->data);
     return 0;
 }
+
